@@ -92,7 +92,7 @@ export const greeting = {
     "Я тебя очень-очень люблю!"
   ],
   "photoPath": "./images/mom-photo.jpg",
-  "musicPath": "./audio/background.m4a",
+  "musicPath": "./audio/soundtack.mp3",
   "showPetals": true,
   "enableMusic": true
 }

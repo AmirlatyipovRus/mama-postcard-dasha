@@ -19,7 +19,7 @@ npm run dev
 
 Положите семейный снимок в `public/images/mom-photo.jpg`. При отсутствии снимка в рамке появится цветочная иллюстрация. Фото сохраняет свои пропорции.
 
-Музыка по умолчанию находится в `public/audio/background.m4a`. Чтобы использовать свой MP3, положите его в `public/audio/background.mp3` и замените значение `musicPath` на `./audio/background.mp3`. Для бесшумной открытки задайте `enableMusic: false`.
+Музыка по умолчанию находится в `public/audio/soundtack.mp3`. Чтобы использовать свой MP3, положите его в `public/audio/background.mp3` и замените значение `musicPath` на `./audio/background.mp3`. Для бесшумной открытки задайте `enableMusic: false`.
 
 ## Сборка и публикация
 

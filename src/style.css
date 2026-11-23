@@ -14,3 +14,7 @@
   height: auto;
   aspect-ratio: auto 853 / 1280;
 }
+
+.hearts { display: flex; justify-content: center; gap: 5px; }
+.hearts svg, .note sup svg { display: block; width: 17px; height: 17px; }
+.hearts .lit svg, .note.seen sup svg { fill: currentColor; }

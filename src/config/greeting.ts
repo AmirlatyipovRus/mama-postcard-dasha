@@ -1,6 +1,6 @@
 export const greeting = {
   "recipientName": "Мама",
-  "senderName": "С любовью, твоя дочь ❤️",
+  "senderName": "С любовью, твоя дочь Даша ❤️",
   "introTitle": "Мама, это для тебя",
   "introDescription": [
     "Я приготовила для тебя особенное письмо",
